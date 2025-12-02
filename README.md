@@ -9,7 +9,7 @@
 **Doodax** is a professional-grade, real-time Markdown editor and previewer built for developers and content creators who value aesthetics and performance.
 
 <div align="center">
-  <h2><a href="https://doodax.com" target="_blank">🚀 LIVE DEMO</a></h2>
+  <h2><a href="https://doodax.com/tools/markdown-previewer/index.html" target="_blank">🚀 LIVE DEMO</a></h2>
   <p><em>Click the link above to experience the application in a new tab.</em></p>
 </div>
 
